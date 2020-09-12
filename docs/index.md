@@ -5,7 +5,7 @@ Check out my [Google Sites Website](https://sites.google.com/view/unclejimbo/hom
 # Nava/JASL
 **Nava (alternatively JASL, an acronym for *Jimbo's Another Scripting Language*)** is an event-driven object-orientated scripting language that I designed.
 
-[Learn More](https://github.com/Sombrero64/Nava-JASL)
+[Learn More](https://github.com/Sombrero64/Nava)
 
 # Python#
 **Python#** is a free open-source Python module that allows the branching, convenient creation of objects. Don't except much updates with this.
