@@ -10,7 +10,10 @@ Check out my [Google Sites Website](https://sites.google.com/view/unclejimbo/hom
 # Python#
 **Python#** is a free open-source Python module that allows the branching, convenient creation of objects. Don't except much updates with this.
 
-[Learn More](https://github.com/Sombrero64/PythonSharp)
+# Documedit
+**Documedit** is a WIP Windows file explorer & file editor program written in Visual C# on Visual Studio.
+
+[Learn More](https://github.com/Sombrero64/Documedit)
 
 # Snap Blocks
 My own collection of blocks usable on [Snap! (Build Your Own Blocks)](https://snap.berkeley.edu/).
