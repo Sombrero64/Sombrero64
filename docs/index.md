@@ -1,5 +1,7 @@
 Hello! I'm just a programmer. Nonething much here.
 
+Check out [my blog](https://sombrero64.github.io/Sombrero64/blog/)!
+
 Check out my [Google Sites Website](https://sites.google.com/view/unclejimbo/home) to see all my creations.
 
 # Nava/JASL
