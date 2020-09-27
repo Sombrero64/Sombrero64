@@ -1,4 +1,4 @@
-Blog: Roblox
+[Blog](https://sombrero64.github.io/Sombrero64/blog): [Roblox](https://sombrero64.github.io/Sombrero64/blog/roblox)
 # ReplicatedScriptService Might Be a Bad Idea
 Roblox has plans introducting a new service called **ReplicatedScriptService**, a service that runs scripts to both cilents and the server. 
 It allows you to run game logic for players and their server, which is useful at certain cases, but I think this can be a bad idea later on it's lifetime.
